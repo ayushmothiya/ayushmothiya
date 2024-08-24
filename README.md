@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher with a s
   A user-friendly file search engine that implements binary protocols for serializing and de-serializing Python object structures. Efficient, fast, and reliable data handling is the key focus here.  
   *Technologies: Python*
 
-- **[Bioscience Module - Yuvaan IITG](https://github.com/ayushmothiya/Robotics-Club-IITG/Bioscience-Module-YuvaanIITG)**  
+- **[Bioscience Module - Yuvaan IITG](https://github.com/Robotics-Club-IITG/Bioscience-Module-YuvaanIITG)**  
   This project tackles soil texture classification using Convolutional Neural Networks (CNNs). Another contribution as part of the Robotics Club at IIT Guwahati.  
   *Technologies: Jupyter Notebook*
 
