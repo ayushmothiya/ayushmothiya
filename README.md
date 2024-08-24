@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher with a s
   A classification project aimed at detecting anomalies in computer logs. This project focuses on ensuring the reliability and security of systems by identifying irregularities.  
   *Technologies: Jupyter Notebook*
 
-- **[HapNav](https://github.com/ayushmothiya/Robotics-Club-IITG/HapNav)**  
+- **[HapNav](https://github.com/Robotics-Club-IITG/HapNav)**  
   A haptic feedback-based navigation device designed for specially-abled people. This project was developed as part of the Robotics Club at IIT Guwahati.  
   *Technologies: Python*
 
