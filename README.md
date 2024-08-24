@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher with a s
 ### 🔭 Current Projects
 
 - **[Cover-Generator](https://github.com/ayushmothiya/Cover-Generator)**  
-  Forked from Pushkar1853's repository, this project applies OpenAI tools like Whisper, DALL-E, and ChatGPT to generate album covers from audio files. The power of AI and creativity come together in this unique application.  
+  This project applies OpenAI tools like Whisper, DALL-E, and ChatGPT to generate album covers from audio files. The power of AI and creativity come together in this unique application.  
   *Technologies: Jupyter Notebook*
 
 - **[Log-Anomaly-Detection](https://github.com/ayushmothiya/Log-Anomaly-Detection)**  
