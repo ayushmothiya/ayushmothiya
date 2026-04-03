@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher with a s
 ### 📫 How to Reach Me
 
 - LinkedIn: [Ayush Mothiya](https://www.linkedin.com/in/ayush-mothiya/)
-- Email: a.mothiya@iitg.ac.in
+- Email: ayushmothiya8th@gmail.com
 
 ---
 
