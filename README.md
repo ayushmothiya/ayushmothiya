@@ -34,6 +34,12 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher with a s
   Rapidly-Exploring Random Trees (RRT) is a pathfinding algorithm project aimed at solving complex path planning problems.  
   *Technologies: Python*
 
+  - **[OpenClaw Custom Plugin](https://github.com/ayushmothiya/openclaw-plugins)**  
+  Discord voice bridge extension for OpenClaw with wakeword detection via OpenWakeWord, one-shot buffered STT via Smallest.ai, TTS replies in Discord voice and recording mode for event / meeting capture. 
+  *Technologies: JS, Python*
+
+  
+
 ---
 
 ### 🚀 What I'm Passionate About
